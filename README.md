@@ -1,5 +1,5 @@
 ## 키워드 기반의 주식 인사이트 제공 플랫폼: Stockey
-![introPage](../asset/1-인트로페이지.png)
+![image](https://github.com/Pro-Digital-Academy-Frontend-Project/.github/blob/main/asset/1-%EC%9D%B8%ED%8A%B8%EB%A1%9C%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)
 
 ## ⁉️기획 배경
 테마주와 같은 특정 키워드 기반의 투자 성향에서 아이디어를 시작했습니다.
