@@ -40,5 +40,6 @@
 
 ## ElasticSearch 성능 향상
 <img width="522" alt="스크린샷 2024-12-19 오후 3 06 11" src="https://github.com/user-attachments/assets/3477cb7e-0818-4388-adcc-d1e23fba547a" />
+<br>
 Node.js의 라이브러리 Artillery를 통해 테스트 결과
 요청 응답 속도가 약 80% 향상된 것을 확인할 수 있었습니다
